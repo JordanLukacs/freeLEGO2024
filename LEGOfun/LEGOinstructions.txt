@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 step 1: put red brick on top of blue birkc
+=======
+step 1: put red brick on top of blue birkc 
+step 2: put white brick on top of red brick
+step 3: hooray
+
+>>>>>>> 8cb7dfd5a906422eb3f812a79b0bcf4ee0f142cf
